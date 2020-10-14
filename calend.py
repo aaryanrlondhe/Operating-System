@@ -7,8 +7,8 @@ def cale():
 		root.configure(bg='#fcfcec')
 		firstnum=e.get()
 		fnum=int(firstnum)
-		mylabel1=Label(root,text=calendar.calendar(fnum),font=("Arial Bold",13),bg="#fcfcec",fg="#cb464e")
-		mylabel1.grid(row=1,column=0)
+		mylabel1=Label(root,text=calendar.calendar(fnum),font=("Consolas 10 bold"),bg="#fcfcec",fg="#cb464e")
+		mylabel1.grid(row=1,column=0, padx = 20)
 
 	myLabel= Label(root,text="Enter Year :- ",bg='#fcfcec',fg="#4b7fa4",font=("times", 20))
 	myLabel.grid(row=0,column=1)
