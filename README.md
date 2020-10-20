@@ -27,7 +27,7 @@ Thank You !!
 
 # *Output :-*
 
-![](images.png)
+![](2020-10-20 (1).png)
 
 # *Contact Us :-*
 
